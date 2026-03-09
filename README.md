@@ -85,10 +85,10 @@ The models were evaluated using:
 
 | Model | Strength |
 |------|------|
-| CNN + LSTM | Good temporal learning |
+| CNN + LSTM | Good long-term temporal learning |
 | CNN + GRU | Faster training and better stability |
 
-Results show that **CNN-GRU achieved faster convergence and stable training performance.**
+Results show that **CNN-LSTM performed best. Because LSTM captures long-term temporal dependencies more effectively.**
 
 
 
@@ -115,11 +115,14 @@ Seismic-Trend-Analysis
 
 ---
 
-# 👩‍💻 Author
+# 👩‍💻 Authors
 
-**Akhila Sree Menda**  
-Integrated M.Tech, Computer Science Engineering  
-VIT AP University
+- Akhila Sree Menda
+- Suma Dasari  
+- Mohitha Sree Boggavarapu  
+- Dr. Rajkumar Yesuraj  
+School of Computer Science and Engineering  
+Vellore Institute of Technology, Amaravati
 
 ---
 
