@@ -113,7 +113,15 @@ Seismic-Trend-Analysis
 └── README.md
 
 
----
+## Hardware Environment
+
+Model training was performed using GPU acceleration on Kaggle.
+
+Platform: Kaggle Notebooks  
+GPU: NVIDIA Tesla P100  
+Framework: TensorFlow / Keras
+
+GPU acceleration significantly reduced training time for the CNN-LSTM and CNN-GRU models.
 
 # 👩‍💻 Authors
 
