@@ -132,7 +132,17 @@ GPU acceleration significantly reduced training time for the CNN-LSTM and CNN-GR
 School of Computer Science and Engineering  
 Vellore Institute of Technology, Amaravati
 
----
+## Research Paper
+
+**Title:** Seismic Trend Analysis and Prediction
+
+Authors: Akhila Sree Menda, Suma Dasari, Mohitha Sree Boggavarapu, Dr. Rajkumar Yesuraj
+
+Conference: IEEE ICAAIC 2025
+
+DOI: https://doi.org/10.1109/ICAAIC64647.2025.11330661
+
+The full paper is available in this repository as `research-paper.pdf`.
 
 # ⭐ If you found this project useful
 
