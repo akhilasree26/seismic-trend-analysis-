@@ -40,7 +40,7 @@ Binary Classification (Magnitude ≥ 6)
 
 Dataset used:
 
-Earthquake Database (1965–2016)
+Significant Earthquakes, 1965-2016
 
 Features used:
 
